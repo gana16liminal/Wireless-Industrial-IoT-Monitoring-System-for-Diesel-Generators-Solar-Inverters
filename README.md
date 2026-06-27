@@ -302,3 +302,5 @@ Built with ❤️ for Industrial IoT
 
 <img width="1600" height="715" alt="RS485 TO LoRa DTU connec" src="https://github.com/user-attachments/assets/14a38e7d-447c-4b44-ac8c-9b7a3f07594f" />
 <img width="716" height="1600" alt="hardware setup" src="https://github.com/user-attachments/assets/85b0289a-54bb-42fe-bcc6-a121cb3c2a14" />
+<img width="1080" height="1596" alt="LoRa transmitting " src="https://github.com/user-attachments/assets/efff23a5-8771-454c-8143-d27b1b2de408" />
+
