@@ -1,3 +1,4 @@
+
 # Wireless-Industrial-IoT-Monitoring-System-for-Diesel-Generators-Solar-Inverters
 Internship Project — Gravity India Real-time, wireless Building Management System (BMS) for industrial power equipment monitoring
 
@@ -298,3 +299,6 @@ All open-source library maintainers
 If you found this project useful, please give it a star ⭐ on GitHub!
 
 Built with ❤️ for Industrial IoT
+
+<img width="1600" height="715" alt="RS485 TO LoRa DTU connec" src="https://github.com/user-attachments/assets/14a38e7d-447c-4b44-ac8c-9b7a3f07594f" />
+<img width="716" height="1600" alt="hardware setup" src="https://github.com/user-attachments/assets/85b0289a-54bb-42fe-bcc6-a121cb3c2a14" />
