@@ -6,7 +6,7 @@ This code runs on the ESP32 at the Diesel Generator or Solar Inverter location. 
 // ============================================================
 
 #include <ModbusMaster.h>
-#include <LoRa.h>
+#include <LoRa.h> 
 #include <ArduinoJson.h>
 
 // ------------------- RS-485 Configuration -------------------
